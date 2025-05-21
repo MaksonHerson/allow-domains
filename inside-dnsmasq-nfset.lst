@@ -1,3 +1,4 @@
+nftset=/api.cloud.hashicorp.com/4#inet#fw4#vpn_domains
 nftset=/4pda.to/4#inet#fw4#vpn_domains
 nftset=/udemy.com/4#inet#fw4#vpn_domains
 nftset=/nba.com/4#inet#fw4#vpn_domains
@@ -37,6 +38,7 @@ nftset=/discordsays.com/4#inet#fw4#vpn_domains
 nftset=/discours.io/4#inet#fw4#vpn_domains
 nftset=/instagram.com/4#inet#fw4#vpn_domains
 nftset=/cdninstagram.com/4#inet#fw4#vpn_domains
+nftset=/portal.cloud.hashicorp.com/4#inet#fw4#vpn_domains
 nftset=/tiktok.com/4#inet#fw4#vpn_domains
 nftset=/tiktokcdn-eu.com/4#inet#fw4#vpn_domains
 nftset=/tiktokcdn-us.com/4#inet#fw4#vpn_domains
@@ -61,3 +63,4 @@ nftset=/twtrdns.net/4#inet#fw4#vpn_domains
 nftset=/twttr.com/4#inet#fw4#vpn_domains
 nftset=/twttr.net/4#inet#fw4#vpn_domains
 nftset=/twvid.com/4#inet#fw4#vpn_domains
+nftset=/vagrantcloud.com/4#inet#fw4#vpn_domains
