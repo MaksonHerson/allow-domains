@@ -1,3 +1,4 @@
+nftset=/.com/4#inet#fw4#vpn_domains
 nftset=/api.cloud.hashicorp.com/4#inet#fw4#vpn_domains
 nftset=/4pda.to/4#inet#fw4#vpn_domains
 nftset=/udemy.com/4#inet#fw4#vpn_domains
